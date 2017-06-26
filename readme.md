@@ -1,5 +1,27 @@
 # Unity3D学习计划
 
+### 先下载网盘资料下载
+
+链接：http://pan.baidu.com/s/1cxVXeu 密码：m7vh
+
+包含内容：
+
+##### C#教程
+
+1. C#初级课程之语法基础-视频教程
+
+2. C#初级课程之语法基础-项目代码
+
+3. C#初级课程之语法基础-PDF文档
+
+##### Unity3D教程
+
+1. Unity3D初级课程之新手入门-视频教程
+
+2. Unity3D初级课程之新手入门-项目代码
+
+3. Unity3D初级课程之新手入门-PDF文档
+
 ### C#基本语法学习
 
 计划时间：10天
@@ -93,6 +115,7 @@
 计划时间：10天
 
 - [Unity3D的练习项目](https://github.com/XINCGer/Unity3DTraining)
+
 - 后面补充
 
 [Unity3D官方网站](https://unity3d.com/cn/unity)
